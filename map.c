@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "map.h"
@@ -79,3 +80,4 @@ double get_map_value(const Map *map, double x, double y) {
     // Pobranie wartości z tablicy 1D: index = row * width + col
     return map->cells[row * map->width + col];
 }
+

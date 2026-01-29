@@ -1,3 +1,6 @@
+#ifndef PSO_H
+#define PSO_H
+
 #include "map.h"
 
 // Struktura parametrów algorytmu
@@ -42,3 +45,4 @@ void update_swarm(Swarm *swarm, Map *map, PSOParams params);
  */
 void free_swarm(Swarm *swarm);
 
+#endif

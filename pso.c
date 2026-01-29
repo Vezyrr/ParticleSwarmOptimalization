@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <float.h> // Dla DBL_MAX lub bardzo małych wartości
@@ -120,3 +121,4 @@ void free_swarm(Swarm *swarm) {
         free(swarm);
     }
 }
+

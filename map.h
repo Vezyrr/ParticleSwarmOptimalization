@@ -1,3 +1,6 @@
+#ifndef MAP_H
+#define MAP_H
+
 
 typedef struct {
     int width;          
@@ -19,3 +22,5 @@ void free_map(Map *map);
  * Realizuje rzutowanie na int i obsługę granic.
  */
 double get_map_value(const Map *map, double x, double y);
+
+#endif 
