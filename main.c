@@ -115,6 +115,6 @@ int main(int argc, char** argv)
         co_ile_zapis
     );
 
-    printf("\n\ntest\n");
+    printf("\nwykonano w pelni\n");
     return 0;
 }
