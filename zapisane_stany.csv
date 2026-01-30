@@ -1,5 +1,5 @@
-CORD_X, CORD_Y
-STAN Z TURY, : 0
+ID_CZASTECZKI, CORD_X, CORD_Y
+STAN Z TURY: 0, , 
 Czasteczka nr. 1, -0.135800, 4.152959
 Czasteczka nr. 2, 4.037214, 3.510264
 Czasteczka nr. 3, 5.454197, 5.350059
@@ -101,7 +101,7 @@ Czasteczka nr. 98, 4.234272, 4.515667
 Czasteczka nr. 99, 5.168271, 4.106772
 Czasteczka nr. 100, 1.379518, 3.903864
 
-STAN Z TURY, : 1
+STAN Z TURY: 1, , 
 Czasteczka nr. 1, 1.490314, 2.936186
 Czasteczka nr. 2, 4.322161, 2.770610
 Czasteczka nr. 3, 5.530486, 5.183197
@@ -203,7 +203,7 @@ Czasteczka nr. 98, 5.175011, 3.834329
 Czasteczka nr. 99, 5.180920, 4.027610
 Czasteczka nr. 100, 2.516834, 2.719527
 
-STAN Z TURY, : 2
+STAN Z TURY: 2, , 
 Czasteczka nr. 1, 3.345745, 2.785642
 Czasteczka nr. 2, 5.297975, 2.249593
 Czasteczka nr. 3, 5.882299, 4.238248
@@ -305,7 +305,7 @@ Czasteczka nr. 98, 4.220539, 3.239870
 Czasteczka nr. 99, 5.359661, 3.445794
 Czasteczka nr. 100, 3.099514, 2.600984
 
-STAN Z TURY, : 3
+STAN Z TURY: 3, , 
 Czasteczka nr. 1, 5.391517, 2.597321
 Czasteczka nr. 2, 5.825356, 1.982649
 Czasteczka nr. 3, 6.095761, 3.181149
@@ -407,7 +407,7 @@ Czasteczka nr. 98, 3.583322, 2.725872
 Czasteczka nr. 99, 5.625635, 3.387006
 Czasteczka nr. 100, 4.006707, 2.885098
 
-STAN Z TURY, : 4
+STAN Z TURY: 4, , 
 Czasteczka nr. 1, 6.454213, 2.314435
 Czasteczka nr. 2, 6.089593, 1.929628
 Czasteczka nr. 3, 6.033746, 3.307294
@@ -509,7 +509,7 @@ Czasteczka nr. 98, 3.256621, 2.332029
 Czasteczka nr. 99, 5.700753, 3.453685
 Czasteczka nr. 100, 4.790950, 2.716073
 
-STAN Z TURY, : 5
+STAN Z TURY: 5, , 
 Czasteczka nr. 1, 6.819707, 2.145141
 Czasteczka nr. 2, 6.219901, 1.993860
 Czasteczka nr. 3, 5.928342, 3.729709
@@ -611,7 +611,7 @@ Czasteczka nr. 98, 3.156646, 3.088789
 Czasteczka nr. 99, 5.547435, 3.618714
 Czasteczka nr. 100, 5.635758, 2.597529
 
-STAN Z TURY, : 6
+STAN Z TURY: 6, , 
 Czasteczka nr. 1, 6.915893, 2.122978
 Czasteczka nr. 2, 6.190246, 2.022495
 Czasteczka nr. 3, 5.828433, 4.244973
@@ -713,7 +713,7 @@ Czasteczka nr. 98, 4.154949, 3.757928
 Czasteczka nr. 99, 5.471525, 3.351785
 Czasteczka nr. 100, 6.270909, 2.401521
 
-STAN Z TURY, : 7
+STAN Z TURY: 7, , 
 Czasteczka nr. 1, 6.475786, 2.207031
 Czasteczka nr. 2, 6.155983, 2.108824
 Czasteczka nr. 3, 5.762383, 4.145404
@@ -815,7 +815,7 @@ Czasteczka nr. 98, 4.266270, 4.185694
 Czasteczka nr. 99, 5.636794, 3.244801
 Czasteczka nr. 100, 6.505144, 2.302713
 
-STAN Z TURY, : 8
+STAN Z TURY: 8, , 
 Czasteczka nr. 1, 6.171440, 2.296186
 Czasteczka nr. 2, 6.135600, 2.131714
 Czasteczka nr. 3, 5.768218, 3.792451
@@ -917,7 +917,7 @@ Czasteczka nr. 98, 4.432118, 4.526325
 Czasteczka nr. 99, 5.791863, 3.615984
 Czasteczka nr. 100, 6.388641, 2.232380
 
-STAN Z TURY, : 9
+STAN Z TURY: 9, , 
 Czasteczka nr. 1, 6.092049, 2.336125
 Czasteczka nr. 2, 6.130282, 2.160478
 Czasteczka nr. 3, 5.893704, 3.327376
@@ -1019,7 +1019,7 @@ Czasteczka nr. 98, 3.883677, 4.666833
 Czasteczka nr. 99, 5.758620, 3.519891
 Czasteczka nr. 100, 6.264691, 2.204544
 
-STAN Z TURY, : 10
+STAN Z TURY: 10, , 
 Czasteczka nr. 1, 6.134261, 2.331268
 Czasteczka nr. 2, 6.114516, 2.121995
 Czasteczka nr. 3, 5.935887, 2.631858
@@ -1121,7 +1121,7 @@ Czasteczka nr. 98, 3.840543, 4.686675
 Czasteczka nr. 99, 5.594496, 3.566265
 Czasteczka nr. 100, 6.194343, 2.198108
 
-STAN Z TURY, : 11
+STAN Z TURY: 11, , 
 Czasteczka nr. 1, 6.258971, 2.267064
 Czasteczka nr. 2, 6.097317, 2.127949
 Czasteczka nr. 3, 5.964608, 2.100391
@@ -1223,7 +1223,7 @@ Czasteczka nr. 98, 3.397039, 3.744551
 Czasteczka nr. 99, 5.479831, 3.593399
 Czasteczka nr. 100, 6.128608, 2.230262
 
-STAN Z TURY, : 12
+STAN Z TURY: 12, , 
 Czasteczka nr. 1, 6.246006, 2.243229
 Czasteczka nr. 2, 6.085045, 2.095393
 Czasteczka nr. 3, 6.001529, 2.088031
@@ -1325,7 +1325,7 @@ Czasteczka nr. 98, 3.255399, 3.929427
 Czasteczka nr. 99, 5.443505, 3.525636
 Czasteczka nr. 100, 6.128197, 2.290738
 
-STAN Z TURY, : 13
+STAN Z TURY: 13, , 
 Czasteczka nr. 1, 6.264784, 2.251494
 Czasteczka nr. 2, 6.092962, 2.101623
 Czasteczka nr. 3, 6.035567, 2.098683
@@ -1427,7 +1427,7 @@ Czasteczka nr. 98, 2.764480, 4.085474
 Czasteczka nr. 99, 5.577797, 3.312591
 Czasteczka nr. 100, 6.107938, 2.356339
 
-STAN Z TURY, : 14
+STAN Z TURY: 14, , 
 Czasteczka nr. 1, 6.267299, 2.270041
 Czasteczka nr. 2, 6.118059, 2.111689
 Czasteczka nr. 3, 6.039302, 2.104981
@@ -1529,7 +1529,7 @@ Czasteczka nr. 98, 4.047635, 3.687540
 Czasteczka nr. 99, 5.570069, 2.996895
 Czasteczka nr. 100, 6.141864, 2.399660
 
-STAN Z TURY, : 15
+STAN Z TURY: 15, , 
 Czasteczka nr. 1, 6.360204, 2.300081
 Czasteczka nr. 2, 6.119113, 2.128204
 Czasteczka nr. 3, 6.031057, 2.117825
@@ -1631,7 +1631,7 @@ Czasteczka nr. 98, 4.817879, 2.989381
 Czasteczka nr. 99, 5.650581, 2.568197
 Czasteczka nr. 100, 6.171604, 2.417810
 
-STAN Z TURY, : 16
+STAN Z TURY: 16, , 
 Czasteczka nr. 1, 6.349985, 2.309103
 Czasteczka nr. 2, 6.109565, 2.153154
 Czasteczka nr. 3, 6.028971, 2.152883
@@ -1733,7 +1733,7 @@ Czasteczka nr. 98, 5.443404, 2.589752
 Czasteczka nr. 99, 5.844618, 2.452351
 Czasteczka nr. 100, 6.187042, 2.328943
 
-STAN Z TURY, : 17
+STAN Z TURY: 17, , 
 Czasteczka nr. 1, 6.279418, 2.281111
 Czasteczka nr. 2, 6.123249, 2.151769
 Czasteczka nr. 3, 6.037262, 2.156416
@@ -1835,7 +1835,7 @@ Czasteczka nr. 98, 5.979940, 2.329298
 Czasteczka nr. 99, 5.873536, 2.411369
 Czasteczka nr. 100, 6.196098, 2.287880
 
-STAN Z TURY, : 18
+STAN Z TURY: 18, , 
 Czasteczka nr. 1, 6.242365, 2.257576
 Czasteczka nr. 2, 6.143051, 2.102553
 Czasteczka nr. 3, 6.045158, 2.132814
@@ -1937,7 +1937,7 @@ Czasteczka nr. 98, 6.166591, 2.202128
 Czasteczka nr. 99, 5.937948, 2.402530
 Czasteczka nr. 100, 6.185082, 2.286957
 
-STAN Z TURY, : 19
+STAN Z TURY: 19, , 
 Czasteczka nr. 1, 6.215979, 2.247582
 Czasteczka nr. 2, 6.139881, 2.076516
 Czasteczka nr. 3, 6.045424, 2.120815
@@ -2039,7 +2039,7 @@ Czasteczka nr. 98, 6.240228, 2.138908
 Czasteczka nr. 99, 5.905234, 2.634365
 Czasteczka nr. 100, 6.182360, 2.280592
 
-STAN Z TURY, : 20
+STAN Z TURY: 20, , 
 Czasteczka nr. 1, 6.267652, 2.241556
 Czasteczka nr. 2, 6.148340, 2.073845
 Czasteczka nr. 3, 6.050568, 2.127536
@@ -2141,7 +2141,7 @@ Czasteczka nr. 98, 6.221362, 2.131322
 Czasteczka nr. 99, 5.789208, 2.709982
 Czasteczka nr. 100, 6.180135, 2.261073
 
-STAN Z TURY, : 21
+STAN Z TURY: 21, , 
 Czasteczka nr. 1, 6.255641, 2.244274
 Czasteczka nr. 2, 6.135880, 2.108437
 Czasteczka nr. 3, 6.036080, 2.173060
@@ -2243,7 +2243,7 @@ Czasteczka nr. 98, 6.201199, 2.158330
 Czasteczka nr. 99, 5.752838, 2.705495
 Czasteczka nr. 100, 6.137310, 2.281868
 
-STAN Z TURY, : 22
+STAN Z TURY: 22, , 
 Czasteczka nr. 1, 6.303876, 2.271767
 Czasteczka nr. 2, 6.127141, 2.142909
 Czasteczka nr. 3, 6.038461, 2.184184
@@ -2345,7 +2345,7 @@ Czasteczka nr. 98, 6.139676, 2.199971
 Czasteczka nr. 99, 5.812973, 2.721603
 Czasteczka nr. 100, 6.130383, 2.287996
 
-STAN Z TURY, : 23
+STAN Z TURY: 23, , 
 Czasteczka nr. 1, 6.292155, 2.286015
 Czasteczka nr. 2, 6.116925, 2.143623
 Czasteczka nr. 3, 6.027749, 2.179568
@@ -2447,7 +2447,7 @@ Czasteczka nr. 98, 6.088818, 2.222629
 Czasteczka nr. 99, 5.966909, 2.540677
 Czasteczka nr. 100, 6.149504, 2.274000
 
-STAN Z TURY, : 24
+STAN Z TURY: 24, , 
 Czasteczka nr. 1, 6.277272, 2.292165
 Czasteczka nr. 2, 6.117477, 2.148841
 Czasteczka nr. 3, 6.032572, 2.163140
@@ -2549,7 +2549,7 @@ Czasteczka nr. 98, 6.099091, 2.231533
 Czasteczka nr. 99, 5.871632, 2.465653
 Czasteczka nr. 100, 6.170378, 2.307901
 
-STAN Z TURY, : 25
+STAN Z TURY: 25, , 
 Czasteczka nr. 1, 6.309149, 2.272934
 Czasteczka nr. 2, 6.114360, 2.114120
 Czasteczka nr. 3, 6.039728, 2.144452
@@ -2651,7 +2651,7 @@ Czasteczka nr. 98, 6.106941, 2.226591
 Czasteczka nr. 99, 5.829649, 2.331832
 Czasteczka nr. 100, 6.197366, 2.302518
 
-STAN Z TURY, : 26
+STAN Z TURY: 26, , 
 Czasteczka nr. 1, 6.306714, 2.244439
 Czasteczka nr. 2, 6.137419, 2.116718
 Czasteczka nr. 3, 6.039722, 2.125546
@@ -2753,7 +2753,7 @@ Czasteczka nr. 98, 6.114978, 2.216559
 Czasteczka nr. 99, 5.799542, 2.431093
 Czasteczka nr. 100, 6.205873, 2.315898
 
-STAN Z TURY, : 27
+STAN Z TURY: 27, , 
 Czasteczka nr. 1, 6.354936, 2.228246
 Czasteczka nr. 2, 6.134799, 2.115446
 Czasteczka nr. 3, 6.036254, 2.124978
@@ -2855,7 +2855,7 @@ Czasteczka nr. 98, 6.122282, 2.209999
 Czasteczka nr. 99, 5.837605, 2.641600
 Czasteczka nr. 100, 6.212818, 2.334558
 
-STAN Z TURY, : 28
+STAN Z TURY: 28, , 
 Czasteczka nr. 1, 6.336288, 2.217454
 Czasteczka nr. 2, 6.130503, 2.128638
 Czasteczka nr. 3, 6.036627, 2.155428
@@ -2957,7 +2957,7 @@ Czasteczka nr. 98, 6.113352, 2.206212
 Czasteczka nr. 99, 5.844018, 2.788848
 Czasteczka nr. 100, 6.224578, 2.343720
 
-STAN Z TURY, : 29
+STAN Z TURY: 29, , 
 Czasteczka nr. 1, 6.263592, 2.240115
 Czasteczka nr. 2, 6.106004, 2.121840
 Czasteczka nr. 3, 6.027740, 2.161670
@@ -3059,7 +3059,7 @@ Czasteczka nr. 98, 6.109718, 2.204196
 Czasteczka nr. 99, 5.805019, 2.891905
 Czasteczka nr. 100, 6.222408, 2.328331
 
-STAN Z TURY, : 30
+STAN Z TURY: 30, , 
 Czasteczka nr. 1, 6.235014, 2.250355
 Czasteczka nr. 2, 6.124621, 2.115090
 Czasteczka nr. 3, 6.034590, 2.138107
@@ -3161,7 +3161,7 @@ Czasteczka nr. 98, 6.105394, 2.209835
 Czasteczka nr. 99, 5.781291, 2.809193
 Czasteczka nr. 100, 6.211075, 2.274671
 
-STAN Z TURY, : 31
+STAN Z TURY: 31, , 
 Czasteczka nr. 1, 6.227143, 2.281063
 Czasteczka nr. 2, 6.161336, 2.132250
 Czasteczka nr. 3, 6.044881, 2.119162
@@ -3263,7 +3263,7 @@ Czasteczka nr. 98, 6.095101, 2.213008
 Czasteczka nr. 99, 5.771672, 2.826805
 Czasteczka nr. 100, 6.216229, 2.238650
 
-STAN Z TURY, : 32
+STAN Z TURY: 32, , 
 Czasteczka nr. 1, 6.252655, 2.282144
 Czasteczka nr. 2, 6.160689, 2.167589
 Czasteczka nr. 3, 6.046795, 2.125785
@@ -3365,7 +3365,7 @@ Czasteczka nr. 98, 6.099308, 2.212431
 Czasteczka nr. 99, 5.773911, 2.881320
 Czasteczka nr. 100, 6.210490, 2.272390
 
-STAN Z TURY, : 33
+STAN Z TURY: 33, , 
 Czasteczka nr. 1, 6.226927, 2.269717
 Czasteczka nr. 2, 6.120174, 2.163832
 Czasteczka nr. 3, 6.044715, 2.131759
@@ -3467,7 +3467,7 @@ Czasteczka nr. 98, 6.105405, 2.212766
 Czasteczka nr. 99, 5.804635, 2.841755
 Czasteczka nr. 100, 6.194956, 2.326760
 
-STAN Z TURY, : 34
+STAN Z TURY: 34, , 
 Czasteczka nr. 1, 6.166785, 2.273901
 Czasteczka nr. 2, 6.118540, 2.160440
 Czasteczka nr. 3, 6.055242, 2.123711
@@ -3569,7 +3569,7 @@ Czasteczka nr. 98, 6.125710, 2.210226
 Czasteczka nr. 99, 5.821954, 2.694649
 Czasteczka nr. 100, 6.191558, 2.332872
 
-STAN Z TURY, : 35
+STAN Z TURY: 35, , 
 Czasteczka nr. 1, 6.174129, 2.285074
 Czasteczka nr. 2, 6.121170, 2.095828
 Czasteczka nr. 3, 6.057745, 2.132105
@@ -3671,7 +3671,7 @@ Czasteczka nr. 98, 6.125990, 2.210265
 Czasteczka nr. 99, 5.838043, 2.711352
 Czasteczka nr. 100, 6.194030, 2.327315
 
-STAN Z TURY, : 36
+STAN Z TURY: 36, , 
 Czasteczka nr. 1, 6.289121, 2.298401
 Czasteczka nr. 2, 6.117465, 2.112587
 Czasteczka nr. 3, 6.049284, 2.158027
@@ -3773,7 +3773,7 @@ Czasteczka nr. 98, 6.111155, 2.210080
 Czasteczka nr. 99, 5.925207, 2.632416
 Czasteczka nr. 100, 6.194295, 2.316059
 
-STAN Z TURY, : 37
+STAN Z TURY: 37, , 
 Czasteczka nr. 1, 6.320206, 2.279293
 Czasteczka nr. 2, 6.116497, 2.127634
 Czasteczka nr. 3, 6.036862, 2.189892
@@ -3875,7 +3875,7 @@ Czasteczka nr. 98, 6.120953, 2.212273
 Czasteczka nr. 99, 5.968177, 2.680378
 Czasteczka nr. 100, 6.195103, 2.307039
 
-STAN Z TURY, : 38
+STAN Z TURY: 38, , 
 Czasteczka nr. 1, 6.360153, 2.248507
 Czasteczka nr. 2, 6.129437, 2.115681
 Czasteczka nr. 3, 6.032949, 2.166888
@@ -3977,7 +3977,7 @@ Czasteczka nr. 98, 6.148295, 2.212290
 Czasteczka nr. 99, 5.901658, 2.698135
 Czasteczka nr. 100, 6.221575, 2.280095
 
-STAN Z TURY, : 39
+STAN Z TURY: 39, , 
 Czasteczka nr. 1, 6.327712, 2.245835
 Czasteczka nr. 2, 6.157502, 2.138931
 Czasteczka nr. 3, 6.022700, 2.137995
@@ -4079,7 +4079,7 @@ Czasteczka nr. 98, 6.133777, 2.207874
 Czasteczka nr. 99, 5.849828, 2.627627
 Czasteczka nr. 100, 6.248583, 2.241131
 
-STAN Z TURY, : 40
+STAN Z TURY: 40, , 
 Czasteczka nr. 1, 6.210880, 2.253720
 Czasteczka nr. 2, 6.153891, 2.155639
 Czasteczka nr. 3, 6.031104, 2.155809
@@ -4181,7 +4181,7 @@ Czasteczka nr. 98, 6.105757, 2.204812
 Czasteczka nr. 99, 5.855312, 2.572510
 Czasteczka nr. 100, 6.190209, 2.224936
 
-STAN Z TURY, : 41
+STAN Z TURY: 41, , 
 Czasteczka nr. 1, 6.149016, 2.277138
 Czasteczka nr. 2, 6.141223, 2.105418
 Czasteczka nr. 3, 6.036026, 2.140747
@@ -4283,7 +4283,7 @@ Czasteczka nr. 98, 6.087337, 2.206913
 Czasteczka nr. 99, 5.860156, 2.575820
 Czasteczka nr. 100, 6.145131, 2.269181
 
-STAN Z TURY, : 42
+STAN Z TURY: 42, , 
 Czasteczka nr. 1, 6.187414, 2.270990
 Czasteczka nr. 2, 6.119568, 2.090381
 Czasteczka nr. 3, 6.042508, 2.154258
@@ -4385,7 +4385,7 @@ Czasteczka nr. 98, 6.077365, 2.208740
 Czasteczka nr. 99, 5.795084, 2.696718
 Czasteczka nr. 100, 6.142799, 2.303898
 
-STAN Z TURY, : 43
+STAN Z TURY: 43, , 
 Czasteczka nr. 1, 6.264647, 2.267995
 Czasteczka nr. 2, 6.112939, 2.126400
 Czasteczka nr. 3, 6.044612, 2.157477
@@ -4487,7 +4487,7 @@ Czasteczka nr. 98, 6.072761, 2.210374
 Czasteczka nr. 99, 5.762557, 2.776384
 Czasteczka nr. 100, 6.128912, 2.306281
 
-STAN Z TURY, : 44
+STAN Z TURY: 44, , 
 Czasteczka nr. 1, 6.359731, 2.274303
 Czasteczka nr. 2, 6.102816, 2.124193
 Czasteczka nr. 3, 6.030258, 2.136044
@@ -4589,7 +4589,7 @@ Czasteczka nr. 98, 6.078961, 2.213070
 Czasteczka nr. 99, 5.888813, 2.755588
 Czasteczka nr. 100, 6.129946, 2.316655
 
-STAN Z TURY, : 45
+STAN Z TURY: 45, , 
 Czasteczka nr. 1, 6.341108, 2.290052
 Czasteczka nr. 2, 6.132170, 2.088424
 Czasteczka nr. 3, 6.042123, 2.146244
@@ -4691,7 +4691,7 @@ Czasteczka nr. 98, 6.097048, 2.215082
 Czasteczka nr. 99, 5.871499, 2.569819
 Czasteczka nr. 100, 6.156165, 2.330801
 
-STAN Z TURY, : 46
+STAN Z TURY: 46, , 
 Czasteczka nr. 1, 6.271993, 2.291380
 Czasteczka nr. 2, 6.140745, 2.104321
 Czasteczka nr. 3, 6.040914, 2.154271
@@ -4793,7 +4793,7 @@ Czasteczka nr. 98, 6.136121, 2.213248
 Czasteczka nr. 99, 5.852399, 2.421061
 Czasteczka nr. 100, 6.152839, 2.322989
 
-STAN Z TURY, : 47
+STAN Z TURY: 47, , 
 Czasteczka nr. 1, 6.206314, 2.276395
 Czasteczka nr. 2, 6.150507, 2.121841
 Czasteczka nr. 3, 6.036032, 2.159790
@@ -4895,7 +4895,7 @@ Czasteczka nr. 98, 6.152252, 2.208663
 Czasteczka nr. 99, 5.855072, 2.568232
 Czasteczka nr. 100, 6.187881, 2.318910
 
-STAN Z TURY, : 48
+STAN Z TURY: 48, , 
 Czasteczka nr. 1, 6.228762, 2.279329
 Czasteczka nr. 2, 6.156514, 2.119030
 Czasteczka nr. 3, 6.037753, 2.147639
@@ -4997,7 +4997,7 @@ Czasteczka nr. 98, 6.132116, 2.207765
 Czasteczka nr. 99, 5.850022, 2.524592
 Czasteczka nr. 100, 6.190703, 2.318590
 
-STAN Z TURY, : 49
+STAN Z TURY: 49, , 
 Czasteczka nr. 1, 6.244216, 2.263341
 Czasteczka nr. 2, 6.149608, 2.153815
 Czasteczka nr. 3, 6.034068, 2.132249
@@ -5099,7 +5099,7 @@ Czasteczka nr. 98, 6.124765, 2.206445
 Czasteczka nr. 99, 5.908655, 2.586751
 Czasteczka nr. 100, 6.192982, 2.333139
 
-STAN Z TURY, : 50
+STAN Z TURY: 50, , 
 Czasteczka nr. 1, 6.245522, 2.255927
 Czasteczka nr. 2, 6.142380, 2.157633
 Czasteczka nr. 3, 6.033929, 2.149818
@@ -5201,7 +5201,7 @@ Czasteczka nr. 98, 6.114005, 2.206946
 Czasteczka nr. 99, 5.905139, 2.648291
 Czasteczka nr. 100, 6.163690, 2.359670
 
-STAN Z TURY, : 51
+STAN Z TURY: 51, , 
 Czasteczka nr. 1, 6.255096, 2.249105
 Czasteczka nr. 2, 6.150192, 2.142091
 Czasteczka nr. 3, 6.040536, 2.174017
@@ -5303,7 +5303,7 @@ Czasteczka nr. 98, 6.106296, 2.207307
 Czasteczka nr. 99, 5.819685, 2.544463
 Czasteczka nr. 100, 6.133974, 2.349407
 
-STAN Z TURY, : 52
+STAN Z TURY: 52, , 
 Czasteczka nr. 1, 6.255149, 2.273366
 Czasteczka nr. 2, 6.153543, 2.162403
 Czasteczka nr. 3, 6.049530, 2.204578
@@ -5405,7 +5405,7 @@ Czasteczka nr. 98, 6.122170, 2.209912
 Czasteczka nr. 99, 5.746188, 2.460386
 Czasteczka nr. 100, 6.112850, 2.341477
 
-STAN Z TURY, : 53
+STAN Z TURY: 53, , 
 Czasteczka nr. 1, 6.323936, 2.274666
 Czasteczka nr. 2, 6.137437, 2.119606
 Czasteczka nr. 3, 6.058404, 2.181978
@@ -5507,7 +5507,7 @@ Czasteczka nr. 98, 6.119459, 2.211372
 Czasteczka nr. 99, 5.655662, 2.485889
 Czasteczka nr. 100, 6.115480, 2.330853
 
-STAN Z TURY, : 54
+STAN Z TURY: 54, , 
 Czasteczka nr. 1, 6.265722, 2.258093
 Czasteczka nr. 2, 6.122648, 2.092632
 Czasteczka nr. 3, 6.056913, 2.141603
@@ -5609,7 +5609,7 @@ Czasteczka nr. 98, 6.115994, 2.209010
 Czasteczka nr. 99, 5.627459, 2.727297
 Czasteczka nr. 100, 6.165328, 2.318014
 
-STAN Z TURY, : 55
+STAN Z TURY: 55, , 
 Czasteczka nr. 1, 6.254680, 2.244016
 Czasteczka nr. 2, 6.134238, 2.114568
 Czasteczka nr. 3, 6.035314, 2.143251
@@ -5711,7 +5711,7 @@ Czasteczka nr. 98, 6.116316, 2.206541
 Czasteczka nr. 99, 5.737753, 2.648820
 Czasteczka nr. 100, 6.230262, 2.283875
 
-STAN Z TURY, : 56
+STAN Z TURY: 56, , 
 Czasteczka nr. 1, 6.267838, 2.239103
 Czasteczka nr. 2, 6.141423, 2.161627
 Czasteczka nr. 3, 6.025578, 2.158460
@@ -5813,7 +5813,7 @@ Czasteczka nr. 98, 6.136334, 2.205785
 Czasteczka nr. 99, 5.950937, 2.771453
 Czasteczka nr. 100, 6.250472, 2.313592
 
-STAN Z TURY, : 57
+STAN Z TURY: 57, , 
 Czasteczka nr. 1, 6.291272, 2.249039
 Czasteczka nr. 2, 6.126714, 2.180007
 Czasteczka nr. 3, 6.024795, 2.150688
@@ -5915,7 +5915,7 @@ Czasteczka nr. 98, 6.132188, 2.206541
 Czasteczka nr. 99, 5.964666, 2.676438
 Czasteczka nr. 100, 6.210847, 2.328295
 
-STAN Z TURY, : 58
+STAN Z TURY: 58, , 
 Czasteczka nr. 1, 6.257147, 2.260386
 Czasteczka nr. 2, 6.112889, 2.188864
 Czasteczka nr. 3, 6.036206, 2.138277
@@ -6017,7 +6017,7 @@ Czasteczka nr. 98, 6.132538, 2.212694
 Czasteczka nr. 99, 5.973619, 2.504837
 Czasteczka nr. 100, 6.209528, 2.323435
 
-STAN Z TURY, : 59
+STAN Z TURY: 59, , 
 Czasteczka nr. 1, 6.253184, 2.279430
 Czasteczka nr. 2, 6.120482, 2.164833
 Czasteczka nr. 3, 6.033691, 2.144232
@@ -6119,7 +6119,7 @@ Czasteczka nr. 98, 6.138733, 2.214384
 Czasteczka nr. 99, 5.855563, 2.527911
 Czasteczka nr. 100, 6.160937, 2.279925
 
-STAN Z TURY, : 60
+STAN Z TURY: 60, , 
 Czasteczka nr. 1, 6.307837, 2.262736
 Czasteczka nr. 2, 6.147991, 2.168122
 Czasteczka nr. 3, 6.032549, 2.133101
@@ -6221,7 +6221,7 @@ Czasteczka nr. 98, 6.141689, 2.212473
 Czasteczka nr. 99, 5.827499, 2.554011
 Czasteczka nr. 100, 6.156992, 2.272131
 
-STAN Z TURY, : 61
+STAN Z TURY: 61, , 
 Czasteczka nr. 1, 6.325097, 2.263048
 Czasteczka nr. 2, 6.156730, 2.126837
 Czasteczka nr. 3, 6.031925, 2.128698
@@ -6323,7 +6323,7 @@ Czasteczka nr. 98, 6.118519, 2.209209
 Czasteczka nr. 99, 5.806145, 2.618300
 Czasteczka nr. 100, 6.141138, 2.285232
 
-STAN Z TURY, : 62
+STAN Z TURY: 62, , 
 Czasteczka nr. 1, 6.329934, 2.284659
 Czasteczka nr. 2, 6.145772, 2.129233
 Czasteczka nr. 3, 6.022549, 2.153740
@@ -6425,7 +6425,7 @@ Czasteczka nr. 98, 6.110745, 2.205878
 Czasteczka nr. 99, 5.909395, 2.560678
 Czasteczka nr. 100, 6.154842, 2.327135
 
-STAN Z TURY, : 63
+STAN Z TURY: 63, , 
 Czasteczka nr. 1, 6.317769, 2.290443
 Czasteczka nr. 2, 6.128888, 2.130254
 Czasteczka nr. 3, 6.010356, 2.174847
@@ -6527,7 +6527,7 @@ Czasteczka nr. 98, 6.105029, 2.204279
 Czasteczka nr. 99, 6.026045, 2.506386
 Czasteczka nr. 100, 6.132967, 2.330046
 
-STAN Z TURY, : 64
+STAN Z TURY: 64, , 
 Czasteczka nr. 1, 6.258565, 2.283738
 Czasteczka nr. 2, 6.125546, 2.105255
 Czasteczka nr. 3, 6.015766, 2.189080
@@ -6629,7 +6629,7 @@ Czasteczka nr. 98, 6.126031, 2.208594
 Czasteczka nr. 99, 6.100901, 2.442431
 Czasteczka nr. 100, 6.173417, 2.324612
 
-STAN Z TURY, : 65
+STAN Z TURY: 65, , 
 Czasteczka nr. 1, 6.247889, 2.275912
 Czasteczka nr. 2, 6.131718, 2.077714
 Czasteczka nr. 3, 6.034312, 2.204849
@@ -6731,7 +6731,7 @@ Czasteczka nr. 98, 6.136411, 2.211588
 Czasteczka nr. 99, 6.095680, 2.332898
 Czasteczka nr. 100, 6.197757, 2.330169
 
-STAN Z TURY, : 66
+STAN Z TURY: 66, , 
 Czasteczka nr. 1, 6.288015, 2.246332
 Czasteczka nr. 2, 6.112298, 2.060674
 Czasteczka nr. 3, 6.035422, 2.209332
@@ -6833,7 +6833,7 @@ Czasteczka nr. 98, 6.112543, 2.210459
 Czasteczka nr. 99, 6.057865, 2.295204
 Czasteczka nr. 100, 6.204264, 2.309299
 
-STAN Z TURY, : 67
+STAN Z TURY: 67, , 
 Czasteczka nr. 1, 6.321109, 2.234715
 Czasteczka nr. 2, 6.092680, 2.128506
 Czasteczka nr. 3, 6.035465, 2.176508
@@ -6935,7 +6935,7 @@ Czasteczka nr. 98, 6.107519, 2.209504
 Czasteczka nr. 99, 6.038342, 2.269839
 Czasteczka nr. 100, 6.207044, 2.268774
 
-STAN Z TURY, : 68
+STAN Z TURY: 68, , 
 Czasteczka nr. 1, 6.331590, 2.253065
 Czasteczka nr. 2, 6.106890, 2.148157
 Czasteczka nr. 3, 6.032570, 2.132222
@@ -7037,7 +7037,7 @@ Czasteczka nr. 98, 6.113471, 2.206878
 Czasteczka nr. 99, 6.029500, 2.298781
 Czasteczka nr. 100, 6.200435, 2.247580
 
-STAN Z TURY, : 69
+STAN Z TURY: 69, , 
 Czasteczka nr. 1, 6.268567, 2.269179
 Czasteczka nr. 2, 6.116434, 2.140233
 Czasteczka nr. 3, 6.036373, 2.121300
@@ -7139,7 +7139,7 @@ Czasteczka nr. 98, 6.115025, 2.207806
 Czasteczka nr. 99, 6.029474, 2.319085
 Czasteczka nr. 100, 6.193969, 2.307640
 
-STAN Z TURY, : 70
+STAN Z TURY: 70, , 
 Czasteczka nr. 1, 6.230155, 2.274797
 Czasteczka nr. 2, 6.125143, 2.110986
 Czasteczka nr. 3, 6.029808, 2.136620
@@ -7241,7 +7241,7 @@ Czasteczka nr. 98, 6.130568, 2.209891
 Czasteczka nr. 99, 6.037149, 2.363584
 Czasteczka nr. 100, 6.162181, 2.333580
 
-STAN Z TURY, : 71
+STAN Z TURY: 71, , 
 Czasteczka nr. 1, 6.197958, 2.276850
 Czasteczka nr. 2, 6.126520, 2.101877
 Czasteczka nr. 3, 6.036021, 2.133368
@@ -7343,7 +7343,7 @@ Czasteczka nr. 98, 6.147763, 2.208058
 Czasteczka nr. 99, 6.044909, 2.388018
 Czasteczka nr. 100, 6.147178, 2.353538
 
-STAN Z TURY, : 72
+STAN Z TURY: 72, , 
 Czasteczka nr. 1, 6.179557, 2.294714
 Czasteczka nr. 2, 6.140550, 2.114395
 Czasteczka nr. 3, 6.051080, 2.154577
@@ -7445,7 +7445,7 @@ Czasteczka nr. 98, 6.127525, 2.211150
 Czasteczka nr. 99, 6.048448, 2.375235
 Czasteczka nr. 100, 6.174643, 2.370586
 
-STAN Z TURY, : 73
+STAN Z TURY: 73, , 
 Czasteczka nr. 1, 6.219917, 2.283125
 Czasteczka nr. 2, 6.135863, 2.131842
 Czasteczka nr. 3, 6.057011, 2.160206
@@ -7547,7 +7547,7 @@ Czasteczka nr. 98, 6.116164, 2.209221
 Czasteczka nr. 99, 6.055985, 2.340670
 Czasteczka nr. 100, 6.156247, 2.338021
 
-STAN Z TURY, : 74
+STAN Z TURY: 74, , 
 Czasteczka nr. 1, 6.240460, 2.260900
 Czasteczka nr. 2, 6.149704, 2.144738
 Czasteczka nr. 3, 6.041084, 2.163947
@@ -7649,7 +7649,7 @@ Czasteczka nr. 98, 6.101585, 2.209253
 Czasteczka nr. 99, 6.055522, 2.384421
 Czasteczka nr. 100, 6.126907, 2.301421
 
-STAN Z TURY, : 75
+STAN Z TURY: 75, , 
 Czasteczka nr. 1, 6.287015, 2.270892
 Czasteczka nr. 2, 6.159627, 2.147468
 Czasteczka nr. 3, 6.022436, 2.160862
@@ -7751,7 +7751,7 @@ Czasteczka nr. 98, 6.104390, 2.209616
 Czasteczka nr. 99, 6.052607, 2.432717
 Czasteczka nr. 100, 6.162412, 2.256930
 
-STAN Z TURY, : 76
+STAN Z TURY: 76, , 
 Czasteczka nr. 1, 6.286660, 2.264935
 Czasteczka nr. 2, 6.141245, 2.136951
 Czasteczka nr. 3, 6.028070, 2.164670
@@ -7853,7 +7853,7 @@ Czasteczka nr. 98, 6.119519, 2.208426
 Czasteczka nr. 99, 6.054326, 2.443457
 Czasteczka nr. 100, 6.194082, 2.258454
 
-STAN Z TURY, : 77
+STAN Z TURY: 77, , 
 Czasteczka nr. 1, 6.235001, 2.265713
 Czasteczka nr. 2, 6.128032, 2.117179
 Czasteczka nr. 3, 6.023922, 2.146401
@@ -7955,7 +7955,7 @@ Czasteczka nr. 98, 6.107248, 2.210318
 Czasteczka nr. 99, 6.043960, 2.398696
 Czasteczka nr. 100, 6.187889, 2.276737
 
-STAN Z TURY, : 78
+STAN Z TURY: 78, , 
 Czasteczka nr. 1, 6.186463, 2.271644
 Czasteczka nr. 2, 6.127559, 2.109557
 Czasteczka nr. 3, 6.031278, 2.142928
@@ -8057,7 +8057,7 @@ Czasteczka nr. 98, 6.103184, 2.209388
 Czasteczka nr. 99, 6.046740, 2.401163
 Czasteczka nr. 100, 6.179834, 2.321311
 
-STAN Z TURY, : 79
+STAN Z TURY: 79, , 
 Czasteczka nr. 1, 6.268693, 2.267824
 Czasteczka nr. 2, 6.124099, 2.139866
 Czasteczka nr. 3, 6.026723, 2.156962
@@ -8159,7 +8159,7 @@ Czasteczka nr. 98, 6.111667, 2.210196
 Czasteczka nr. 99, 6.046146, 2.361233
 Czasteczka nr. 100, 6.152628, 2.320476
 
-STAN Z TURY, : 80
+STAN Z TURY: 80, , 
 Czasteczka nr. 1, 6.337079, 2.250969
 Czasteczka nr. 2, 6.110635, 2.153054
 Czasteczka nr. 3, 6.022806, 2.137971
@@ -8261,7 +8261,7 @@ Czasteczka nr. 98, 6.122138, 2.206976
 Czasteczka nr. 99, 6.046509, 2.324392
 Czasteczka nr. 100, 6.101971, 2.312835
 
-STAN Z TURY, : 81
+STAN Z TURY: 81, , 
 Czasteczka nr. 1, 6.298036, 2.246650
 Czasteczka nr. 2, 6.127453, 2.173899
 Czasteczka nr. 3, 6.021310, 2.115258
@@ -8363,7 +8363,7 @@ Czasteczka nr. 98, 6.113590, 2.208380
 Czasteczka nr. 99, 6.038277, 2.328625
 Czasteczka nr. 100, 6.141926, 2.298825
 
-STAN Z TURY, : 82
+STAN Z TURY: 82, , 
 Czasteczka nr. 1, 6.260296, 2.262152
 Czasteczka nr. 2, 6.134058, 2.158878
 Czasteczka nr. 3, 6.037017, 2.128923
@@ -8465,7 +8465,7 @@ Czasteczka nr. 98, 6.121118, 2.208836
 Czasteczka nr. 99, 6.045557, 2.307551
 Czasteczka nr. 100, 6.184448, 2.309725
 
-STAN Z TURY, : 83
+STAN Z TURY: 83, , 
 Czasteczka nr. 1, 6.163030, 2.292975
 Czasteczka nr. 2, 6.139071, 2.107603
 Czasteczka nr. 3, 6.037322, 2.162010
@@ -8567,7 +8567,7 @@ Czasteczka nr. 98, 6.119474, 2.209690
 Czasteczka nr. 99, 6.053164, 2.341927
 Czasteczka nr. 100, 6.225444, 2.348519
 
-STAN Z TURY, : 84
+STAN Z TURY: 84, , 
 Czasteczka nr. 1, 6.199977, 2.300698
 Czasteczka nr. 2, 6.136885, 2.079597
 Czasteczka nr. 3, 6.030491, 2.169207
@@ -8669,7 +8669,7 @@ Czasteczka nr. 98, 6.136246, 2.207782
 Czasteczka nr. 99, 6.055796, 2.372594
 Czasteczka nr. 100, 6.236613, 2.352654
 
-STAN Z TURY, : 85
+STAN Z TURY: 85, , 
 Czasteczka nr. 1, 6.270875, 2.278695
 Czasteczka nr. 2, 6.121670, 2.106810
 Czasteczka nr. 3, 6.031480, 2.156408
@@ -8771,7 +8771,7 @@ Czasteczka nr. 98, 6.149413, 2.210577
 Czasteczka nr. 99, 6.057643, 2.379431
 Czasteczka nr. 100, 6.199556, 2.349308
 
-STAN Z TURY, : 86
+STAN Z TURY: 86, , 
 Czasteczka nr. 1, 6.250788, 2.263102
 Czasteczka nr. 2, 6.115277, 2.129195
 Czasteczka nr. 3, 6.039669, 2.164496
@@ -8873,7 +8873,7 @@ Czasteczka nr. 98, 6.132053, 2.210955
 Czasteczka nr. 99, 6.055463, 2.356789
 Czasteczka nr. 100, 6.148542, 2.311881
 
-STAN Z TURY, : 87
+STAN Z TURY: 87, , 
 Czasteczka nr. 1, 6.213377, 2.251091
 Czasteczka nr. 2, 6.112163, 2.164683
 Czasteczka nr. 3, 6.046591, 2.182271
@@ -8975,7 +8975,7 @@ Czasteczka nr. 98, 6.125023, 2.212852
 Czasteczka nr. 99, 6.041514, 2.350357
 Czasteczka nr. 100, 6.142568, 2.290885
 
-STAN Z TURY, : 88
+STAN Z TURY: 88, , 
 Czasteczka nr. 1, 6.136774, 2.249125
 Czasteczka nr. 2, 6.114420, 2.157030
 Czasteczka nr. 3, 6.042083, 2.188353
@@ -9077,7 +9077,7 @@ Czasteczka nr. 98, 6.120207, 2.209611
 Czasteczka nr. 99, 6.037904, 2.324341
 Czasteczka nr. 100, 6.144994, 2.302139
 
-STAN Z TURY, : 89
+STAN Z TURY: 89, , 
 Czasteczka nr. 1, 6.235318, 2.249756
 Czasteczka nr. 2, 6.133446, 2.112285
 Czasteczka nr. 3, 6.035711, 2.164802
@@ -9179,7 +9179,7 @@ Czasteczka nr. 98, 6.100318, 2.206861
 Czasteczka nr. 99, 6.040492, 2.282141
 Czasteczka nr. 100, 6.164111, 2.295369
 
-STAN Z TURY, : 90
+STAN Z TURY: 90, , 
 Czasteczka nr. 1, 6.257580, 2.270857
 Czasteczka nr. 2, 6.130355, 2.118617
 Czasteczka nr. 3, 6.040497, 2.133704
@@ -9281,7 +9281,7 @@ Czasteczka nr. 98, 6.108381, 2.205343
 Czasteczka nr. 99, 6.047365, 2.325670
 Czasteczka nr. 100, 6.217425, 2.316872
 
-STAN Z TURY, : 91
+STAN Z TURY: 91, , 
 Czasteczka nr. 1, 6.234424, 2.274179
 Czasteczka nr. 2, 6.135396, 2.089514
 Czasteczka nr. 3, 6.041921, 2.146310
@@ -9383,7 +9383,7 @@ Czasteczka nr. 98, 6.112972, 2.206757
 Czasteczka nr. 99, 6.045235, 2.322975
 Czasteczka nr. 100, 6.193882, 2.317169
 
-STAN Z TURY, : 92
+STAN Z TURY: 92, , 
 Czasteczka nr. 1, 6.228345, 2.285191
 Czasteczka nr. 2, 6.126119, 2.105440
 Czasteczka nr. 3, 6.035697, 2.158242
@@ -9485,7 +9485,7 @@ Czasteczka nr. 98, 6.117646, 2.205881
 Czasteczka nr. 99, 6.046390, 2.348142
 Czasteczka nr. 100, 6.191210, 2.291160
 
-STAN Z TURY, : 93
+STAN Z TURY: 93, , 
 Czasteczka nr. 1, 6.258359, 2.264533
 Czasteczka nr. 2, 6.102920, 2.118147
 Czasteczka nr. 3, 6.045808, 2.143230
@@ -9587,7 +9587,7 @@ Czasteczka nr. 98, 6.107675, 2.209219
 Czasteczka nr. 99, 6.044580, 2.359268
 Czasteczka nr. 100, 6.224337, 2.269954
 
-STAN Z TURY, : 94
+STAN Z TURY: 94, , 
 Czasteczka nr. 1, 6.298187, 2.267553
 Czasteczka nr. 2, 6.091426, 2.157303
 Czasteczka nr. 3, 6.064223, 2.146749
@@ -9689,7 +9689,7 @@ Czasteczka nr. 98, 6.122115, 2.208369
 Czasteczka nr. 99, 6.041021, 2.415446
 Czasteczka nr. 100, 6.192943, 2.287964
 
-STAN Z TURY, : 95
+STAN Z TURY: 95, , 
 Czasteczka nr. 1, 6.286253, 2.249861
 Czasteczka nr. 2, 6.111944, 2.140856
 Czasteczka nr. 3, 6.057048, 2.152221
@@ -9791,7 +9791,7 @@ Czasteczka nr. 98, 6.128421, 2.211713
 Czasteczka nr. 99, 6.039988, 2.440754
 Czasteczka nr. 100, 6.143746, 2.292591
 
-STAN Z TURY, : 96
+STAN Z TURY: 96, , 
 Czasteczka nr. 1, 6.280110, 2.231598
 Czasteczka nr. 2, 6.113668, 2.150311
 Czasteczka nr. 3, 6.058453, 2.163048
@@ -9893,7 +9893,7 @@ Czasteczka nr. 98, 6.137781, 2.213243
 Czasteczka nr. 99, 6.051876, 2.471619
 Czasteczka nr. 100, 6.169352, 2.291502
 
-STAN Z TURY, : 97
+STAN Z TURY: 97, , 
 Czasteczka nr. 1, 6.215706, 2.250561
 Czasteczka nr. 2, 6.136797, 2.124044
 Czasteczka nr. 3, 6.059001, 2.178303
@@ -9995,7 +9995,7 @@ Czasteczka nr. 98, 6.138766, 2.211839
 Czasteczka nr. 99, 6.056546, 2.477249
 Czasteczka nr. 100, 6.192991, 2.293787
 
-STAN Z TURY, : 98
+STAN Z TURY: 98, , 
 Czasteczka nr. 1, 6.175693, 2.280862
 Czasteczka nr. 2, 6.140890, 2.085070
 Czasteczka nr. 3, 6.047960, 2.187278
@@ -10097,7 +10097,7 @@ Czasteczka nr. 98, 6.147142, 2.210111
 Czasteczka nr. 99, 6.060962, 2.402728
 Czasteczka nr. 100, 6.203910, 2.293963
 
-STAN Z TURY, : 99
+STAN Z TURY: 99, , 
 Czasteczka nr. 1, 6.145590, 2.291189
 Czasteczka nr. 2, 6.157575, 2.111173
 Czasteczka nr. 3, 6.044053, 2.180814
