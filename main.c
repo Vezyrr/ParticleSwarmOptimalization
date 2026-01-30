@@ -36,9 +36,16 @@ void get_params(int argc, char** av, int* ile_cz, int* ile_iter, char** plik_kon
 
 void main_loop(PSOParams* pso_parametry ,Swarm* roj, Map* mapa, int ile_cz, int ile_iter, char* plik_konf, int co_ile_zapis)
 {
+    FILE* plik_logger = fopen("zapisane_stany.csv", "w");
+    add_header(plik_logger);
+
     for(int i = 0; i < ile_iter; i++)
     {
         update_swarm(roj, mapa, *pso_parametry);
+        if(i%co_ile_zapis == 0)
+        {
+            write_state_to_file(*roj, plik_logger, i);
+        }
     }
 }
 
