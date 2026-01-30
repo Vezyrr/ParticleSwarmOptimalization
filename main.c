@@ -58,9 +58,9 @@ void get_pso_params(char* filename, PSOParams* docelowa_zmienna_parametrow)
     if(konf == NULL)
     {
         printf("nie mozna otworzyc pliku z konfiguracja\n");
-        docelowa_zmienna_parametrow->c1 = 0.2; 
-        docelowa_zmienna_parametrow->c2 = 0.3;
-        docelowa_zmienna_parametrow->w = 0.4;
+        docelowa_zmienna_parametrow->c1 = 1.5; 
+        docelowa_zmienna_parametrow->c2 = 1.5;
+        docelowa_zmienna_parametrow->w = 0.7;
         return;
     }
     else
