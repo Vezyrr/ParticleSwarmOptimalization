@@ -4,6 +4,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
+#include<math.h>
 
 void get_params(int argc, char** av, int* ile_cz, int* ile_iter, char** plik_konf, int* co_ile_zapis)
 {
@@ -87,6 +88,24 @@ void get_pso_params(char* filename, PSOParams* docelowa_zmienna_parametrow)
     fclose(konf);
 }
 
+void wyswietl_finalna_pozycje(Swarm roj)
+{
+    double suma_x = 0;
+    double suma_y = 0;
+    for(int i = 0; i < roj.particle_count; i++)
+    {
+        //printf("x: %lf   y: %lf\n", swarm.particles[i].x, swarm.particles[i].y);
+        //fprintf(plik_logger, "Czasteczka nr. %d, %lf, %lf\n", i + 1, swarm.particles[i].x, swarm.particles[i].y);
+        suma_x += roj.particles[i].x;
+        suma_y += roj.particles[i].y;
+    }
+    double srednia_x = suma_x/roj.particle_count;
+    double srednia_y = suma_y/roj.particle_count;
+    
+    printf("finalne wspolrzedne to: x: %d, y: %d\n", (int)(round(srednia_x)), (int)(round(srednia_y)));
+    //printf("finalne wspolrzedne to: x: %lf, y: %lf\n", srednia_x, srednia_y);
+}
+
 int main(int argc, char** argv)
 {
 
@@ -121,6 +140,8 @@ int main(int argc, char** argv)
         plik_konf,
         co_ile_zapis
     );
+
+    wyswietl_finalna_pozycje(roj);
 
     printf("\nwykonano w pelni\n");
     return 0;
