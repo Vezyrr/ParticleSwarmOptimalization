@@ -12,7 +12,7 @@ void add_header(FILE* plik_logger)
 void write_state_to_file(Swarm swarm, FILE* plik_logger, int tura)
 {
     
-    fprintf(plik_logger, "STAN Z TURY: %d\n", tura);
+    fprintf(plik_logger, "STAN Z TURY, : %d\n", tura);
     for(int i = 0; i < swarm.particle_count; i++)
     {
         printf("x: %lf   y: %lf\n", swarm.particles[i].x, swarm.particles[i].y);
