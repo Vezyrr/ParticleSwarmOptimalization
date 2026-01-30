@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "map.h"
+#include <math.h>
 
 // Stała kary za wylot poza mapę 
 #define OUT_OF_BOUNDS_PENALTY -10000.0
@@ -69,8 +70,8 @@ double get_map_value(const Map *map, double x, double y) {
     if (!map) return OUT_OF_BOUNDS_PENALTY;
 
     // Rzutowanie pozycji x, y na indeksy tablicy 
-    int col = (int)x;
-    int row = (int)y;
+    int col = (int)floor(x);
+    int row = (int)floor(y);
 
     // Obsługa wyjścia poza zakres mapy 
     if (col < 0 || col >= map->width || row < 0 || row >= map->height) {

@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <float.h> // Dla DBL_MAX lub bardzo małych wartości
+#include <math.h>
 #include "pso.h"
 
 // Pomocnicza funkcja zwracająca losową liczbę double [0, 1]

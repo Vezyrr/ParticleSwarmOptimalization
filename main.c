@@ -102,8 +102,18 @@ void wyswietl_finalna_pozycje(Swarm roj)
     double srednia_x = suma_x/roj.particle_count;
     double srednia_y = suma_y/roj.particle_count;
     
-    printf("finalne wspolrzedne to: x: %d, y: %d\n", (int)(round(srednia_x)), (int)(round(srednia_y)));
+    printf("srednie wspolrzedne to: x: %d, y: %d\n", (int)(floor(srednia_x)), (int)(floor(srednia_y)));
+    printf("finalne wspolrzedne to: x: %d, y: %d\n", (int)(floor(roj.gBest_x)), (int)(floor(roj.gBest_y)));
     //printf("finalne wspolrzedne to: x: %lf, y: %lf\n", srednia_x, srednia_y);
+    
+    /*
+    printf("mean particle position: x: %.6f, y: %.6f (rounded: %d, %d)\n",
+           srednia_x, srednia_y, (int)round(srednia_x), (int)round(srednia_y));
+
+    printf("gBest position: x: %.6f, y: %.6f (rounded: %d, %d), value: %.6f\n",
+           roj.gBest_x, roj.gBest_y,
+           (int)round(roj.gBest_x), (int)round(roj.gBest_y), roj.gBest_val);
+        */
 }
 
 int main(int argc, char** argv)
